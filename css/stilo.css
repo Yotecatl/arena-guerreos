@@ -25,6 +25,11 @@ p {
     height: 20%;
 }
 
+.contacto {
+    border-style: double;
+    margin: 10px;
+}
+
 @media (max-width: 500px) {
     .costado{
         display:none;
