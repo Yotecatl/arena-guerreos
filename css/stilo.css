@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
 
-container-fluid {
-    font-family: 'Kaushan Script', cursive;
+.container-fluid {
+    font-family: 'Kaushan Script', cursive !important;
 }
 
 h1 {
